@@ -1,0 +1,13 @@
+.row{
+    border: 5px solid grey;
+    display: flex;
+    width: fit-content; 
+}
+.black{
+    background-color: black;
+    padding: 50px;
+}
+.box{
+    background-color: white;
+    padding: 50px;
+}
